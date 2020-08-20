@@ -1,4 +1,4 @@
-# P314-20.08.2020P116-30.07.2020 SQL Start. DDL,DML,DCL,TCL
+# P314-20.08.2020 - SQL Start. DDL,DML,DCL,TCL
 
 https://www.sqlservertutorial.net/sql-server-basics/
 
